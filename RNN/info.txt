@@ -1,1 +1,0 @@
-This is a RNN to predict apple stock price
