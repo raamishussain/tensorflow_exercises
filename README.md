@@ -33,4 +33,13 @@ The second project is in the `housing_regression.ipynb` notebook. This project a
 to predict the median house value in different housing blocks in California based on 
 census data from 1990. This notebook also uses a DNN regressor as the model.
 
+# RNN
+
+This folder contains two projects which use recurrent neural networks (RNNs) for time series
+analyses.
+
+The first project in the `milk_production.ipynb` notebook uses an RNN with LSTM cells to predict
+milk production over a 12 month period using previous years of milk prodcution data.
+
+The second project in the `apply_stoc
 
