@@ -41,5 +41,6 @@ analyses.
 The first project in the `milk_production.ipynb` notebook uses an RNN with LSTM cells to predict
 milk production over a 12 month period using previous years of milk prodcution data.
 
-The second project in the `apply_stoc
+The second project in the `apply_stock_rnn.ipynb` uses an RNN with LSTM cells to predict the closing
+share price of Apple stock (AAPL). The data was taken from Yahoo finance.
 
